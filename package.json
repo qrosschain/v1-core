@@ -1,0 +1,19 @@
+{
+  "name": "@qross/v1-core",
+  "description": "🗄️ Core smart contracts of Qross V1",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0",
+  "homepage": "https://github.com/qrosschain/v1-core",
+  "keywords": [
+    "qross",
+    "core",
+    "v1"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qross/v1-core.git"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "filter_paths": "(openzeppelin-contracts)",
+  "exclude_informational": true,
+  "detectors_to_exclude": "missing-zero-check"
+}
